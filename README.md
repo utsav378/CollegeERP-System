@@ -77,7 +77,7 @@ This will delete all present attendance data and create new attendance objects f
 
 ### Student Page
 
-![alt text](https://drive.google.com/file/d/1KDgXI-d7HduKMp0s2O31VDtmCGS2dF2b/view?usp=sharing)
+![alt text](https://github.com/utsav378/CollegeERP-System/blob/main/Student.jpg?raw=true)
 
 ![alt text](https://imgur.com/5pzl7m3.png)
 
